@@ -1,6 +1,6 @@
 # ElevenLabs Telegram Voice-Message Agent
 
-> **Recruiter view:** [Product one-pager](docs/product_one_pager.md) · [Architecture diagram](docs/architecture.md) · [Demo walkthrough](docs/demo_script.md)
+> **Visitor view:** [Product one-pager](docs/product_one_pager.md) · [Architecture diagram](docs/architecture.md) · [Demo walkthrough](docs/demo_script.md)
 
 This is a **Telegram-first, asynchronous voice-message agent** built for an ElevenLabs interview demonstration. It is deliberately **not** a telephone or live streaming voice agent. A Telegram user can send either ordinary text or a completed voice note. The service understands both, returns the primary answer as text, and returns an optional AI-generated Telegram voice note.
 
